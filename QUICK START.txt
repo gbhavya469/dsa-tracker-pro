@@ -1,0 +1,28 @@
+🎯 DSA TRACKER PRO - QUICK START
+
+HOW TO USE:
+1. Double-click "dsa-tracker-pro.html" 
+2. It opens in your browser
+3. Check boxes as you solve problems ✓
+4. Your progress saves automatically!
+
+FEATURES:
+📊 Track progress with beautiful dashboard
+📝 Add notes to problems (click 📝 icon)
+⏰ Schedule revisions (click ⏱️ icon)
+🎲 Get random problems for practice
+🌙 Dark mode toggle
+💾 Export/Import your progress
+🔍 Search & filter problems
+
+IMPORTANT:
+• Internet needed to load problems
+• Export your progress regularly (💾 button)
+• Each person needs their own copy for separate tracking
+
+TROUBLESHOOTING:
+• Not loading? Check internet & refresh page
+• Progress not saving? Don't use incognito mode
+• See full README for detailed help
+
+Happy Coding! 🚀
