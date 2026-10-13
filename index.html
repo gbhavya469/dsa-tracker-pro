@@ -1296,9 +1296,12 @@
                             <textarea class="notes-input" placeholder="Add your notes here..." onblur="saveNote('${p.id}', this.value)">${hasNote || ''}</textarea>
                         </div>
                         <div class="problem-links">
-                            <a href="${p.url}" target="_blank" class="link-btn" rel="noopener noreferrer">
-                                Solve Problem 🔗
-                            </a>
+<a href="${p.url && p.url.startsWith('https://takeuforward.org/') ? p.url.split('?')[0] : p.url}"
+   target="_blank"
+   class="link-btn"
+   rel="noopener noreferrer">
+    Solve Problem 🔗
+</a>
                             ${p.video ? `<a href="${p.video}" target="_blank" class="link-btn secondary" rel="noopener noreferrer">
                                 Watch Video 📺
                             </a>` : ''}
